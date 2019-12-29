@@ -3,5 +3,5 @@ spring:
     username: root
     password: Happy1006
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql:///open-plat?userUnicode=true&characterEncoding=utf8
+    url: jdbc:mysql:///open_plat?userUnicode=true&characterEncoding=utf8
     type: com.alibaba.druid.pool.DruidDataSource
