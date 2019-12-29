@@ -1,5 +1,11 @@
+#spring:
+#  redis:
+#    host: redis.qfjava.cn
+#    port: 8400
+#    password: redis001
+
 spring:
   redis:
-    host: redis.qfjava.cn
-    port: 8400
-    password: redis001
+    host: localhost
+    port: 6379
+    passwor: zzzxb
