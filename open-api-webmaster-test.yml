@@ -1,6 +1,6 @@
 spring:
   datasource:
-    username: root
+    username: Zzzxb
     password: Happy1006
     url: jdbc:mysql:///open_plat
     type: com.alibaba.druid.pool.DruidDataSource
