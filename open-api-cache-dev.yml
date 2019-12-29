@@ -8,4 +8,4 @@ spring:
   redis:
     host: localhost
     port: 6379
-    passwor: zzzxb
+    password: zzzxb
