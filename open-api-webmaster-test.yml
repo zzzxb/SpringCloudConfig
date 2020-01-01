@@ -5,3 +5,6 @@ spring:
     url: jdbc:mysql:///open_plat
     type: com.alibaba.druid.pool.DruidDataSource
     driver-class-name: com.mysql.jdbc.Driver
+  rabbitmq:
+    host: rabbitmq.qfjava.cn
+    port: 8800
